@@ -4,7 +4,7 @@ This is a simple **Rock Paper Scissors** game built using **HTML**, **CSS**, and
 
 ## 🎮 Live Demo
 
-[👉 file:///C:/Users/mdeep/OneDrive/Desktop/Web%20Dev/JS/ROCK_PAPER_SCISSORS/index.html](#) 
+👉 [file:///C:/Users/mdeep/OneDrive/Desktop/Web%20Dev/JS/ROCK_PAPER_SCISSORS/index.html](#) 
 
 ## 🧩 Features
 
@@ -18,7 +18,7 @@ This is a simple **Rock Paper Scissors** game built using **HTML**, **CSS**, and
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ## 🚀 Getting Started
 
@@ -27,3 +27,7 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Manideep-Dasari/rock-paper-scissors.git
+
+🙌 Acknowledgements
+
+This project was built for fun and practice!
